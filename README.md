@@ -1,4 +1,4 @@
-## Olá. Eu sou a Maria Clara 
+## Olá! Eu sou a Maria Clara. 
 <div align="center">
   <a href="https://github.com/ClaraLobo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaraLobo19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
